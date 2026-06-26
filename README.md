@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @maeah
-- 👀 I’m interested in anything to do with Artificial Intelligence, Philosophy, Psychology/Behavior, and Combat Sports.
-- 🌱 I’m currently learning how to create my own Neural Network, alongside attempting to break into Shopify Freelancing.
-- 💞️ I’m looking to collaborate on projects that relate to A.I and human behavior.
-- 📫 ...
+- Hello I'm @maeah
+- My readme is not AI, I promise you can trust me.
+- I am interested in some cool stuff just check out my private repo's for more information. 
 
 <!---
 maeah/maeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
