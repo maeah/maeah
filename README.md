@@ -1,5 +1,5 @@
 - Hello I'm @maeah
-- I am interested in some cool stuff just check out my private repo's for more information. 
+- That's it.
 
 <!---
 maeah/maeah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
